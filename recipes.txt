@@ -8,6 +8,8 @@ pasta
 
 
 chicken fry
+bean
+pizza
 
 
 Thank you
